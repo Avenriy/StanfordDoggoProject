@@ -12,15 +12,19 @@ repositories:
     type: git
     url: git@github.com:odriverobotics/ODrive.git
     version: fw-v0.5.1
-  vendor/Arduinolib/ChRt:
+  doggo/lib/ChRt:
     type: git
     url: git@github.com:Avenriy/ChRt.git
     version: master
-  vendor/Arduinolib/SdFat:
+  doggo/lib/SdFat:
     type: git
     url: git@github.com:Avenriy/SdFat.git
     version: 46aff556c5ecad832ca3f19e184fd06e765f5641
-  vendor/Arduinolib/SparkFun_BNO080_Arduino_Library:
+  doggo/lib/SparkFun_BNO080_Arduino_Library:
     type: git
     url: git@github.com:Avenriy/SparkFun_BNO080_Arduino_Library.git
+    version: master
+  simulator/unity:
+    type: git
+    url: git@github.com:Avenriy/doggo_unity.git
     version: master
