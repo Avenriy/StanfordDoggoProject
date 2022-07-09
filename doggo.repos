@@ -16,6 +16,10 @@ repositories:
     type: git
     url: git@github.com:Avenriy/odrive_configure.git
     version: main
+ vender/odrive_ros2_control:
+    type: git
+    url: git@github.com:Factor-Robotics/odrive_ros2_control.git
+    version: fw-v0.5.1
   doggo/lib/ChRt:
     type: git
     url: git@github.com:Avenriy/ChRt.git
